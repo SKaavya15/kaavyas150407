@@ -1,0 +1,56 @@
+body {
+    background: #f6f7fb;
+}
+
+.dark {
+    background: #1e1e2e;
+    color: white;
+}
+
+.login-card {
+    border-radius: 20px;
+}
+
+.hero {
+    width: 180px;
+}
+
+.pastel-card {
+    background: #cdb4db;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.pastel-card:hover {
+    background: #ffc8dd;
+    transform: scale(1.05);
+}
+
+.profile-card {
+    width: 320px;
+    border-radius: 20px;
+}
+
+.profile-img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+li {
+    background: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 220px;
+}
+
+#notesBox div {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
